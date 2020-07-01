@@ -30,7 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
                 'X-CSRFToken': getCookie('csrftoken'),
             }
         }
-        //console.log(config)
         ClassicEditor.create(allEditors[i],
             config).then( editor => {
                 editors.push(editor);        

@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^19.0.0",
+    "@ckeditor/ckeditor5-anchor": "bvedad/ckeditor5-anchor",
     "@ckeditor/ckeditor5-autoformat": "^19.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^19.0.0",
     "@ckeditor/ckeditor5-block-quote": "^19.0.0",

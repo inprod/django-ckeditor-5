@@ -13,7 +13,7 @@ ClassicEditor
             '|',
             'blockQuote', 'imageUpload'
         ],
-        'toolbar': ['heading', '|', 'outdent', 'indent', '|', 'bold', 'italic', 'link', 'underline', 'strikethrough',
+        'toolbar': ['heading', '|', 'anchor', 'outdent', 'indent', '|', 'bold', 'italic', 'link', 'underline', 'strikethrough',
             'code', 'subscript', 'superscript', 'highlight', '|',
             'bulletedList', 'numberedList', 'alignment', '|', 'blockQuote', 'imageUpload', '|',
             'fontColor', 'fontBackgroundColor', 'mediaEmbed', 'removeFormat',
