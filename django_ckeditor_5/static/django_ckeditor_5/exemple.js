@@ -18,7 +18,7 @@ ClassicEditor
             'bulletedList', 'numberedList', 'alignment', '|', 'blockQuote', 'imageUpload', '|',
             'fontColor', 'fontBackgroundColor', 'mediaEmbed', 'removeFormat',
             'insertTable', 'video'
-        ],
+       ],
         'image': {
             'toolbar': ['imageTextAlternative', 'imageTitle', '|', 'imageStyle:alignLeft', 'imageStyle:full',
                 'imageStyle:alignRight', 'imageStyle:alignCenter', 'imageStyle:side', '|'
