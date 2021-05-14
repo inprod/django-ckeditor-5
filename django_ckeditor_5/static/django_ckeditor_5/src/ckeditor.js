@@ -40,6 +40,8 @@ import ImageTitle from './custom_plugins/imagetitle';
 import ImageWithTitle from './custom_plugins/imagewithtitle';
 import Sign from "./custom_plugins/sign/sign";
 import Anchor from '@ckeditor/ckeditor5-anchor/src/anchor';
+import Video from '@visao/ckeditor5-video/src/video';
+
 
 
 export default class ClassicEditor extends ClassicEditorBase {}
@@ -78,5 +80,6 @@ ClassicEditor.builtinPlugins = [
     TodoList,
     ImageTitle,
     Sign,
-    Anchor
+    Anchor,
+    Video
 ];
