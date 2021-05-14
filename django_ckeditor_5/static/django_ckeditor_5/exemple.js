@@ -17,7 +17,7 @@ ClassicEditor
             'code', 'subscript', 'superscript', 'highlight', '|',
             'bulletedList', 'numberedList', 'alignment', '|', 'blockQuote', 'imageUpload', '|',
             'fontColor', 'fontBackgroundColor', 'mediaEmbed', 'removeFormat',
-            'insertTable',
+            'insertTable', 'video'
         ],
         'image': {
             'toolbar': ['imageTextAlternative', 'imageTitle', '|', 'imageStyle:alignLeft', 'imageStyle:full',
