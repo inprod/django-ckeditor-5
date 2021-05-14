@@ -147,7 +147,7 @@ customColorPalette = [
 CKEDITOR_5_CONFIGS = {
     'default': {
         'toolbar': ['heading', '|', 'bold', 'italic', 'link',
-                    'bulletedList', 'numberedList', 'blockQuote', 'imageUpload', 'video' ],
+                    'bulletedList', 'numberedList', 'blockQuote', 'imageUpload' ],
 
     },
     'extends': {
@@ -162,7 +162,8 @@ CKEDITOR_5_CONFIGS = {
                     'code', 'subscript', 'superscript', 'highlight', '|',
                     'bulletedList', 'numberedList', 'todoList', '|', 'blockQuote', 'imageUpload', '|',
                     'fontSize', 'fontFamily', 'fontColor', 'fontBackgroundColor', 'mediaEmbed', 'removeFormat',
-                    'insertTable', ],
+                    'insertTable', 'videoUpload'
+             ],
         'image': {
             'toolbar': ['imageTextAlternative', 'imageTitle', '|', 'imageStyle:alignLeft', 'imageStyle:full',
                         'imageStyle:alignRight', 'imageStyle:alignCenter', 'imageStyle:side', '|'],
