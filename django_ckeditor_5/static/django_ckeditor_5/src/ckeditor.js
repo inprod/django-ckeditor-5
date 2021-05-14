@@ -41,6 +41,10 @@ import ImageWithTitle from './custom_plugins/imagewithtitle';
 import Sign from "./custom_plugins/sign/sign";
 import Anchor from '@ckeditor/ckeditor5-anchor/src/anchor';
 import Video from '@visao/ckeditor5-video/src/video';
+import VideoUpload from '@visao/ckeditor5-video/src/videoupload';
+import VideoResize from '@visao/ckeditor5-video/src/videoresize';
+import VideoToolbar from '@visao/ckeditor5-video/src/videotoolbar';
+import VideoStyle from '@visao/ckeditor5-video/src/videostyle';
 
 
 
@@ -81,5 +85,9 @@ ClassicEditor.builtinPlugins = [
     ImageTitle,
     Sign,
     Anchor,
-    Video
+    Video,
+    VideoUpload,
+    VideoResize,
+    VideoToolbar,
+    VideoStyle
 ];
