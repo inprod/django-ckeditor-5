@@ -147,7 +147,7 @@ customColorPalette = [
 CKEDITOR_5_CONFIGS = {
     'default': {
         'toolbar': ['heading', '|', 'bold', 'italic', 'link',
-                    'bulletedList', 'numberedList', 'blockQuote', 'imageUpload' ],
+                    'bulletedList', 'numberedList', 'blockQuote', 'imageUpload', 'videoUpload' ],
 
     },
     'extends': {
